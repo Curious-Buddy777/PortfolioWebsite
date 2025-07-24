@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Book Recommendation Engine using KNN",
+    "desc": "This is a book recommendation algorithm using K-Nearest Neighbors.Here we have used the Book-Crossings dataset",
+    "image": "generic",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/Curious-Buddy777/Machine-Learning-in-Python/tree/main/freeCodeCamp-Machine-Learning-with-Python-Projects/Book%20Recommendation%20Engine%20using%20KNN",
+      "code": "https://github.com/Curious-Buddy777/Machine-Learning-in-Python/tree/main/freeCodeCamp-Machine-Learning-with-Python-Projects/Book%20Recommendation%20Engine%20using%20KNN"
+    }
+  },
+  {
+    "name": "Cat and Dog Image Classifier",
+    "desc": "A project related to classification purpose with the help of image processing ",
+    "image": "generic",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/Curious-Buddy777/Machine-Learning-in-Python/tree/main/freeCodeCamp-Machine-Learning-with-Python-Projects/Cat%20and%20Dog%20Image%20Classifier",
+      "code": "https://github.com/Curious-Buddy777/Machine-Learning-in-Python/tree/main/freeCodeCamp-Machine-Learning-with-Python-Projects/Cat%20and%20Dog%20Image%20Classifier"
+    }
+  },
+  {
+    "name": "Linear Regression Health Cost Calculator",
+    "desc": "Solving Linear Regression Problem",
+    "image": "generic",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/Curious-Buddy777/Machine-Learning-in-Python/tree/main/freeCodeCamp-Machine-Learning-with-Python-Projects/Linear%20Regression%20Health%20Costs%20Calculator",
+      "code": "https://github.com/Curious-Buddy777/Machine-Learning-in-Python/tree/main/freeCodeCamp-Machine-Learning-with-Python-Projects/Linear%20Regression%20Health%20Costs%20Calculator"
+    }
+  },
+  {
+    "name": "Neural Network SMS Text Classifier",
+    "desc": "Classifying the SMS based on weather it is spam or not using Neural Networks.",
+    "image": "generic",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/Curious-Buddy777/Machine-Learning-in-Python/tree/main/freeCodeCamp-Machine-Learning-with-Python-Projects/Neural%20Network%20SMS%20Text%20Classifier",
+      "code": "https://github.com/Curious-Buddy777/Machine-Learning-in-Python/tree/main/freeCodeCamp-Machine-Learning-with-Python-Projects/Neural%20Network%20SMS%20Text%20Classifier"
+    }
+  },
+  {
+    "name": "Rock Paper Scissors",
+    "desc": "A program that picks at random will usually win 50% of the time. To win one must play matches against four different bots, winning at least 60% of the games in each match.",
+
+    "image": "generic",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/Curious-Buddy777/Machine-Learning-in-Python/tree/main/freeCodeCamp-Machine-Learning-with-Python-Projects/Rock%20Paper%20Scissors",
+      "code": "https://github.com/Curious-Buddy777/Machine-Learning-in-Python/tree/main/freeCodeCamp-Machine-Learning-with-Python-Projects/Rock%20Paper%20Scissors"
+    }
+  },
+  {
+    "name": "Demographic Data Analyzer",
+    "desc": "In this challenge I have analyzed demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database.",
+    "image": "generic",
+    "category": "da",
+    "links": {
+      "view": "https://github.com/Curious-Buddy777/data-analysis-python-Projects/tree/main/data-analysis-python-freeCodeCamp/demographic-data-analyzer",
+      "code": "https://github.com/Curious-Buddy777/data-analysis-python-Projects/tree/main/data-analysis-python-freeCodeCamp/demographic-data-analyzer"
+    }
+  },
+  {
+    "name": "Mean, Variance and Standard Deviation Calculator",
+    "desc": "Create a function named calculate() in mean_var_std.py that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.",
+    "image": "generic",
+    "category": "da",
+    "links": {
+      "view": "https://github.com/Curious-Buddy777/data-analysis-python-Projects/tree/main/data-analysis-python-freeCodeCamp/mean-variance-standard-deviation-calculator",
+      "code": "https://github.com/Curious-Buddy777/data-analysis-python-Projects/tree/main/data-analysis-python-freeCodeCamp/mean-variance-standard-deviation-calculator"
+    }
+  },
+  {
+    "name": "Medical Data Visualizer",
+    "desc": "In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.",
+    "image": "generic",
+    "category": "da",
+    "links": {
+      "view": "https://github.com/Curious-Buddy777/data-analysis-python-Projects/tree/main/data-analysis-python-freeCodeCamp/medical-data-visualizer",
+      "code": "https://github.com/Curious-Buddy777/data-analysis-python-Projects/tree/main/data-analysis-python-freeCodeCamp/medical-data-visualizer"
+    }
+  },
+  {
+    "name": "Page View Time Series Visualizer",
+    "desc": "I have used Pandas, Matplotlib, and Seaborn to visualize a dataset and time series data using a line chart, bar chart, and box plots.",
+    "image": "generic",
+    "category": "da",
+    "links": {
+      "view": "https://github.com/Curious-Buddy777/data-analysis-python-Projects/tree/main/data-analysis-python-freeCodeCamp/page-view-time-series-visualizer",
+      "code": "https://github.com/Curious-Buddy777/data-analysis-python-Projects/tree/main/data-analysis-python-freeCodeCamp/page-view-time-series-visualizer"
+    }
+  },
+  {
+    "name": "Sea Level Predictor",
+    "desc": "I have analyzed a dataset of the global average sea level change since 1880 to predict the sea level change through year 2050.",
+    "image": "generic",
+    "category": "da",
+    "links": {
+      "view": "https://github.com/Curious-Buddy777/data-analysis-python-Projects/tree/main/data-analysis-python-freeCodeCamp/sea-level-predictor",
+      "code": "https://github.com/Curious-Buddy777/data-analysis-python-Projects/tree/main/data-analysis-python-freeCodeCamp/sea-level-predictor"
+    }
+  },
+  {
+    "name": "Crypto Coin & Wallet",
+    "desc": "A simplified representation of crypto wallet and crypto currency, mimicking how they operate and handle transaction",
+    "image": "generic",
+    "category": "bl",
+    "links": {
+      "view": "https://github.com/Curious-Buddy777/Crypto-Coin",
+      "code": "https://github.com/Curious-Buddy777/Crypto-Coin"
+    }
+  },
+  {
+    "name": "Live Chat Application",
+    "desc": "A simplified live chat application created with the help of Web Sockets.",
+    "image": "generic",
+    "category": "java",
+    "links": {
+      "view": "https://github.com/Curious-Buddy777/Simple-Chat-Application",
+      "code": "https://github.com/Curious-Buddy777/Simple-Chat-Application"
+    }
+  }
+]
